@@ -6,3 +6,12 @@ output:
 keep_md: true
 ---
 
+```{r}
+# Libraries
+library(tidyverse)
+```
+
+```{r}
+summary(cars)
+```
+
